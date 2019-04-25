@@ -1,6 +1,6 @@
 # CFImagePuzzle
 原图：
-![原图](https://github.com/coful/CFImagePuzzle/blob/master/test.png)
+![原图](https://github.com/coful/CFImagePuzzle/blob/master/lena.jpg)
 乱序后：
-![新图](https://github.com/coful/CFImagePuzzle/blob/master/MS5KWYHr1xdRUIVyJaim2CGekOwltvE9qn%243PuBhfQ4zAp6sTXo8g%23c70NjZFLDb.png)  
-key:MS5KWYHr1xdRUIVyJaim2CGekOwltvE9qn$3PuBhfQ4zAp6sTXo8g#c70NjZFLDb
+![新图](https://github.com/coful/CFImagePuzzle/blob/master/XnduYWthcw0e5L2Zxga96bD%24VlMszTkE7RSANHP4y8BIoqKJjUiOF3GrCf%23p1vmQ.png)  
+key:XnduYWthcw0e5L2Zxga96bD%24VlMszTkE7RSANHP4y8BIoqKJjUiOF3GrCf%23p1vmQ
