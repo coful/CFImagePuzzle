@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<meta charset="utf-8" />
+		<title>
+			CFImagePuzzle
+		</title>
+		<script type="text/javascript" src="http://code.jquery.com/jquery.min.js">
+		</script>
+	</head>
+	<body>
+		模式：
+		<input type="radio" name="mode" id="encrypt" checked>
+		乱序
+		<input type="radio" name="mode" id="decrypt">
+		复原
+		<div id="inputKey" style="display:none;">
+			key：
+			<input type="text" id="key" style="width:40%;">
+		</div>
+		<br>
+		<input type="file" id="pic" />
+		<br>
+		<div align="left">
+			<canvas id="canvasImg">
+			</canvas>
+		</div>
+		<div align="left">
+			<canvas id="canvasObj">
+			</canvas>
+		</div>
+		<div id="pngHolder">
+		</div>
+		<script type="text/javascript" src="./puzzle.js">
+		</script>
+	</body>
+
+</html>
